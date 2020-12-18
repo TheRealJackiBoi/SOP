@@ -3,7 +3,7 @@ import random
 
 data = []
 
-for i in range(100):
+for i in range(10000):
     number = random.randint(0, 9)
     data.append(number) 
 
